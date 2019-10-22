@@ -1,0 +1,26 @@
+{
+  "name": "@richthegeek/htmldecode",
+  "version": "1.0.0",
+  "description": "Decode HTML characters in a small package",
+  "main": "index.js",
+  "author": "Richard Lyon",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/richthegeek/htmldecode.git"
+  },
+  "keywords": [
+    "html",
+    "entity",
+    "entities",
+    "decode"
+  ],
+  "bugs": {
+    "url": "https://github.com/richthegeek/htmldecode/issues"
+  },
+  "homepage": "https://github.com/richthegeek/htmldecode#readme"
+}
