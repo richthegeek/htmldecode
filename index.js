@@ -1,9 +1,12 @@
 let data = require('./data');
 
 data = data.split('\n').reduce((out, row) => {
-  let [name, code] = row.split(' ');
-  if (!(name in out)) {
-    out[name] = code;
+  let match = row.match(/^([a-z]+)([0-9]+)$/);
+  if (match) {
+    let [x, name, code] = match;
+    if (!(name in out)) {
+      out[name] = code;
+    }
   }
   return out;
 }, {});
@@ -19,3 +22,5 @@ module.exports = function decodeString (str) {
     return (char in data ? String.fromCharCode(data[char]) : m);
   });
 }
+
+module.exports.chars = data;

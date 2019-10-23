@@ -1,2098 +1,2098 @@
-module.exports = `aelig 198
-amp 38
-aacute 193
-abreve 258
-acirc 194
-acy 1040
-afr 120068
-agrave 192
-alpha 913
-amacr 256
-and 10835
-aogon 260
-aopf 120120
-applyfunction 8289
-aring 197
-ascr 119964
-assign 8788
-atilde 195
-auml 196
-backslash 8726
-barv 10983
-barwed 8966
-bcy 1041
-because 8757
-bernoullis 8492
-beta 914
-bfr 120069
-bopf 120121
-breve 728
-bscr 8492
-bumpeq 8782
-chcy 1063
-copy 169
-cacute 262
-cap 8914
-capitaldifferentiald 8517
-cayleys 8493
-ccaron 268
-ccedil 199
-ccirc 264
-cconint 8752
-cdot 266
-cedilla 184
-centerdot 183
-cfr 8493
-chi 935
-circledot 8857
-circleminus 8854
-circleplus 8853
-circletimes 8855
-clockwisecontourintegral 8754
-closecurlydoublequote 8221
-closecurlyquote 8217
-colon 8759
-colone 10868
-congruent 8801
-conint 8751
-contourintegral 8750
-copf 8450
-coproduct 8720
-counterclockwisecontourintegral 8755
-cross 10799
-cscr 119966
-cup 8915
-cupcap 8781
-dd 8517
-ddotrahd 10513
-djcy 1026
-dscy 1029
-dzcy 1039
-dagger 8225
-darr 8609
-dashv 10980
-dcaron 270
-dcy 1044
-del 8711
-delta 916
-dfr 120071
-diacriticalacute 180
-diacriticaldot 729
-diacriticaldoubleacute 733
-diacriticalgrave 96
-diacriticaltilde 732
-diamond 8900
-differentiald 8518
-dopf 120123
-dot 168
-dotdot 8412
-dotequal 8784
-doublecontourintegral 8751
-doubledot 168
-doubledownarrow 8659
-doubleleftarrow 8656
-doubleleftrightarrow 8660
-doublelefttee 10980
-doublelongleftarrow 10232
-doublelongleftrightarrow 10234
-doublelongrightarrow 10233
-doublerightarrow 8658
-doublerighttee 8872
-doubleuparrow 8657
-doubleupdownarrow 8661
-doubleverticalbar 8741
-downarrow 8595
-downarrowbar 10515
-downarrowuparrow 8693
-downbreve 785
-downleftrightvector 10576
-downleftteevector 10590
-downleftvector 8637
-downleftvectorbar 10582
-downrightteevector 10591
-downrightvector 8641
-downrightvectorbar 10583
-downtee 8868
-downteearrow 8615
-downarrow 8659
-dscr 119967
-dstrok 272
-eng 330
-eth 208
-eacute 201
-ecaron 282
-ecirc 202
-ecy 1069
-edot 278
-efr 120072
-egrave 200
-element 8712
-emacr 274
-emptysmallsquare 9723
-emptyverysmallsquare 9643
-eogon 280
-eopf 120124
-epsilon 917
-equal 10869
-equaltilde 8770
-equilibrium 8652
-escr 8496
-esim 10867
-eta 919
-euml 203
-exists 8707
-exponentiale 8519
-fcy 1060
-ffr 120073
-filledsmallsquare 9724
-filledverysmallsquare 9642
-fopf 120125
-forall 8704
-fouriertrf 8497
-fscr 8497
-gjcy 1027
-gt 62
-gamma 915
-gammad 988
-gbreve 286
-gcedil 290
-gcirc 284
-gcy 1043
-gdot 288
-gfr 120074
-gg 8921
-gopf 120126
-greaterequal 8805
-greaterequalless 8923
-greaterfullequal 8807
-greatergreater 10914
-greaterless 8823
-greaterslantequal 10878
-greatertilde 8819
-gscr 119970
-gt 8811
-hardcy 1066
-hacek 711
-hat 94
-hcirc 292
-hfr 8460
-hilbertspace 8459
-hopf 8461
-horizontalline 9472
-hscr 8459
-hstrok 294
-humpdownhump 8782
-humpequal 8783
-iecy 1045
-ijlig 306
-iocy 1025
-iacute 205
-icirc 206
-icy 1048
-idot 304
-ifr 8465
-igrave 204
-im 8465
-imacr 298
-imaginaryi 8520
-implies 8658
-int 8748
-integral 8747
-intersection 8898
-invisiblecomma 8291
-invisibletimes 8290
-iogon 302
-iopf 120128
-iota 921
-iscr 8464
-itilde 296
-iukcy 1030
-iuml 207
-jcirc 308
-jcy 1049
-jfr 120077
-jopf 120129
-jscr 119973
-jsercy 1032
-jukcy 1028
-khcy 1061
-kjcy 1036
-kappa 922
-kcedil 310
-kcy 1050
-kfr 120078
-kopf 120130
-kscr 119974
-ljcy 1033
-lt 60
-lacute 313
-lambda 923
-lang 10218
-laplacetrf 8466
-larr 8606
-lcaron 317
-lcedil 315
-lcy 1051
-leftanglebracket 10216
-leftarrow 8592
-leftarrowbar 8676
-leftarrowrightarrow 8646
-leftceiling 8968
-leftdoublebracket 10214
-leftdownteevector 10593
-leftdownvector 8643
-leftdownvectorbar 10585
-leftfloor 8970
-leftrightarrow 8596
-leftrightvector 10574
-lefttee 8867
-leftteearrow 8612
-leftteevector 10586
-lefttriangle 8882
-lefttrianglebar 10703
-lefttriangleequal 8884
-leftupdownvector 10577
-leftupteevector 10592
-leftupvector 8639
-leftupvectorbar 10584
-leftvector 8636
-leftvectorbar 10578
-leftarrow 8656
-leftrightarrow 8660
-lessequalgreater 8922
-lessfullequal 8806
-lessgreater 8822
-lessless 10913
-lessslantequal 10877
-lesstilde 8818
-lfr 120079
-ll 8920
-lleftarrow 8666
-lmidot 319
-longleftarrow 10229
-longleftrightarrow 10231
-longrightarrow 10230
-longleftarrow 10232
-longleftrightarrow 10234
-longrightarrow 10233
-lopf 120131
-lowerleftarrow 8601
-lowerrightarrow 8600
-lscr 8466
-lsh 8624
-lstrok 321
-lt 8810
-map 10501
-mcy 1052
-mediumspace 8287
-mellintrf 8499
-mfr 120080
-minusplus 8723
-mopf 120132
-mscr 8499
-mu 924
-njcy 1034
-nacute 323
-ncaron 327
-ncedil 325
-ncy 1053
-negativemediumspace 8203
-negativethickspace 8203
-negativethinspace 8203
-negativeverythinspace 8203
-nestedgreatergreater 8811
-nestedlessless 8810
-newline 10
-nfr 120081
-nobreak 8288
-nonbreakingspace 160
-nopf 8469
-not 10988
-notcongruent 8802
-notcupcap 8813
-notdoubleverticalbar 8742
-notelement 8713
-notequal 8800
-notequaltilde 8770, 824
-notexists 8708
-notgreater 8815
-notgreaterequal 8817
-notgreaterfullequal 8807, 824
-notgreatergreater 8811, 824
-notgreaterless 8825
-notgreaterslantequal 10878, 824
-notgreatertilde 8821
-nothumpdownhump 8782, 824
-nothumpequal 8783, 824
-notlefttriangle 8938
-notlefttrianglebar 10703, 824
-notlefttriangleequal 8940
-notless 8814
-notlessequal 8816
-notlessgreater 8824
-notlessless 8810, 824
-notlessslantequal 10877, 824
-notlesstilde 8820
-notnestedgreatergreater 10914, 824
-notnestedlessless 10913, 824
-notprecedes 8832
-notprecedesequal 10927, 824
-notprecedesslantequal 8928
-notreverseelement 8716
-notrighttriangle 8939
-notrighttrianglebar 10704, 824
-notrighttriangleequal 8941
-notsquaresubset 8847, 824
-notsquaresubsetequal 8930
-notsquaresuperset 8848, 824
-notsquaresupersetequal 8931
-notsubset 8834, 8402
-notsubsetequal 8840
-notsucceeds 8833
-notsucceedsequal 10928, 824
-notsucceedsslantequal 8929
-notsucceedstilde 8831, 824
-notsuperset 8835, 8402
-notsupersetequal 8841
-nottilde 8769
-nottildeequal 8772
-nottildefullequal 8775
-nottildetilde 8777
-notverticalbar 8740
-nscr 119977
-ntilde 209
-nu 925
-oelig 338
-oacute 211
-ocirc 212
-ocy 1054
-odblac 336
-ofr 120082
-ograve 210
-omacr 332
-omega 937
-omicron 927
-oopf 120134
-opencurlydoublequote 8220
-opencurlyquote 8216
-or 10836
-oscr 119978
-oslash 216
-otilde 213
-otimes 10807
-ouml 214
-overbar 8254
-overbrace 9182
-overbracket 9140
-overparenthesis 9180
-partiald 8706
-pcy 1055
-pfr 120083
-phi 934
-pi 928
-plusminus 177
-poincareplane 8460
-popf 8473
-pr 10939
-precedes 8826
-precedesequal 10927
-precedesslantequal 8828
-precedestilde 8830
-prime 8243
-product 8719
-proportion 8759
-proportional 8733
-pscr 119979
-psi 936
-quot 34
-qfr 120084
-qopf 8474
-qscr 119980
-rbarr 10512
-reg 174
-racute 340
-rang 10219
-rarr 8608
-rarrtl 10518
-rcaron 344
-rcedil 342
-rcy 1056
-re 8476
-reverseelement 8715
-reverseequilibrium 8651
-reverseupequilibrium 10607
-rfr 8476
-rho 929
-rightanglebracket 10217
-rightarrow 8594
-rightarrowbar 8677
-rightarrowleftarrow 8644
-rightceiling 8969
-rightdoublebracket 10215
-rightdownteevector 10589
-rightdownvector 8642
-rightdownvectorbar 10581
-rightfloor 8971
-righttee 8866
-rightteearrow 8614
-rightteevector 10587
-righttriangle 8883
-righttrianglebar 10704
-righttriangleequal 8885
-rightupdownvector 10575
-rightupteevector 10588
-rightupvector 8638
-rightupvectorbar 10580
-rightvector 8640
-rightvectorbar 10579
-rightarrow 8658
-ropf 8477
-roundimplies 10608
-rrightarrow 8667
-rscr 8475
-rsh 8625
-ruledelayed 10740
-shchcy 1065
-shcy 1064
-softcy 1068
-sacute 346
-sc 10940
-scaron 352
-scedil 350
-scirc 348
-scy 1057
-sfr 120086
-shortdownarrow 8595
-shortleftarrow 8592
-shortrightarrow 8594
-shortuparrow 8593
-sigma 931
-smallcircle 8728
-sopf 120138
-sqrt 8730
-square 9633
-squareintersection 8851
-squaresubset 8847
-squaresubsetequal 8849
-squaresuperset 8848
-squaresupersetequal 8850
-squareunion 8852
-sscr 119982
-star 8902
-sub 8912
-subset 8912
-subsetequal 8838
-succeeds 8827
-succeedsequal 10928
-succeedsslantequal 8829
-succeedstilde 8831
-suchthat 8715
-sum 8721
-sup 8913
-superset 8835
-supersetequal 8839
-supset 8913
-thorn 222
-trade 8482
-tshcy 1035
-tscy 1062
-tab 9
-tau 932
-tcaron 356
-tcedil 354
-tcy 1058
-tfr 120087
-therefore 8756
-theta 920
-thickspace 8287, 8202
-thinspace 8201
-tilde 8764
-tildeequal 8771
-tildefullequal 8773
-tildetilde 8776
-topf 120139
-tripledot 8411
-tscr 119983
-tstrok 358
-uacute 218
-uarr 8607
-uarrocir 10569
-ubrcy 1038
-ubreve 364
-ucirc 219
-ucy 1059
-udblac 368
-ufr 120088
-ugrave 217
-umacr 362
-underbar 95
-underbrace 9183
-underbracket 9141
-underparenthesis 9181
-union 8899
-unionplus 8846
-uogon 370
-uopf 120140
-uparrow 8593
-uparrowbar 10514
-uparrowdownarrow 8645
-updownarrow 8597
-upequilibrium 10606
-uptee 8869
-upteearrow 8613
-uparrow 8657
-updownarrow 8661
-upperleftarrow 8598
-upperrightarrow 8599
-upsi 978
-upsilon 933
-uring 366
-uscr 119984
-utilde 360
-uuml 220
-vdash 8875
-vbar 10987
-vcy 1042
-vdash 8873
-vdashl 10982
-vee 8897
-verbar 8214
-vert 8214
-verticalbar 8739
-verticalline 124
-verticalseparator 10072
-verticaltilde 8768
-verythinspace 8202
-vfr 120089
-vopf 120141
-vscr 119985
-vvdash 8874
-wcirc 372
-wedge 8896
-wfr 120090
-wopf 120142
-wscr 119986
-xfr 120091
-xi 926
-xopf 120143
-xscr 119987
-yacy 1071
-yicy 1031
-yucy 1070
-yacute 221
-ycirc 374
-ycy 1067
-yfr 120092
-yopf 120144
-yscr 119988
-yuml 376
-zhcy 1046
-zacute 377
-zcaron 381
-zcy 1047
-zdot 379
-zerowidthspace 8203
-zeta 918
-zfr 8488
-zopf 8484
-zscr 119989
-aacute 225
-abreve 259
-ac 8766
-ace 8766, 819
-acd 8767
-acirc 226
-acute 180
-acy 1072
-aelig 230
-af 8289
-afr 120094
-agrave 224
-alefsym 8501
-aleph 8501
-alpha 945
-amacr 257
-amalg 10815
-and 8743
-andand 10837
-andd 10844
-andslope 10840
-andv 10842
-ang 8736
-ange 10660
-angle 8736
-angmsd 8737
-angmsdaa 10664
-angmsdab 10665
-angmsdac 10666
-angmsdad 10667
-angmsdae 10668
-angmsdaf 10669
-angmsdag 10670
-angmsdah 10671
-angrt 8735
-angrtvb 8894
-angrtvbd 10653
-angsph 8738
-angst 197
-angzarr 9084
-aogon 261
-aopf 120146
-ap 8776
-ape 10864
-apacir 10863
-ape 8778
-apid 8779
-apos 39
-approx 8776
-approxeq 8778
-aring 229
-ascr 119990
-ast 42
-asymp 8776
-asympeq 8781
-atilde 227
-auml 228
-awconint 8755
-awint 10769
-bnot 10989
-backcong 8780
-backepsilon 1014
-backprime 8245
-backsim 8765
-backsimeq 8909
-barvee 8893
-barwed 8965
-barwedge 8965
-bbrk 9141
-bbrktbrk 9142
-bcong 8780
-bcy 1073
-bdquo 8222
-becaus 8757
-bemptyv 10672
-bepsi 1014
-bernou 8492
-beta 946
-beth 8502
-between 8812
-bfr 120095
-bigcap 8898
-bigcirc 9711
-bigcup 8899
-bigodot 10752
-bigoplus 10753
-bigotimes 10754
-bigsqcup 10758
-bigstar 9733
-bigtriangledown 9661
-bigtriangleup 9651
-biguplus 10756
-bigvee 8897
-bigwedge 8896
-bkarow 10509
-blacklozenge 10731
-blacksquare 9642
-blacktriangle 9652
-blacktriangledown 9662
-blacktriangleleft 9666
-blacktriangleright 9656
-blank 9251
-blk12 9618
-blk14 9617
-blk34 9619
-block 9608
-bne 61, 8421
-bnequiv 8801, 8421
-bnot 8976
-bopf 120147
-bot 8869
-bottom 8869
-bowtie 8904
-boxdl 9559
-boxdr 9556
-boxdl 9558
-boxdr 9555
-boxh 9552
-boxhd 9574
-boxhu 9577
-boxhd 9572
-boxhu 9575
-boxul 9565
-boxur 9562
-boxul 9564
-boxur 9561
-boxv 9553
-boxvh 9580
-boxvl 9571
-boxvr 9568
-boxvh 9579
-boxvl 9570
-boxvr 9567
-boxbox 10697
-boxdl 9557
-boxdr 9554
-boxdl 9488
-boxdr 9484
-boxh 9472
-boxhd 9573
-boxhu 9576
-boxhd 9516
-boxhu 9524
-boxminus 8863
-boxplus 8862
-boxtimes 8864
-boxul 9563
-boxur 9560
-boxul 9496
-boxur 9492
-boxv 9474
-boxvh 9578
-boxvl 9569
-boxvr 9566
-boxvh 9532
-boxvl 9508
-boxvr 9500
-bprime 8245
-brvbar 166
-bscr 119991
-bsemi 8271
-bsim 8765
-bsime 8909
-bsol 92
-bsolb 10693
-bsolhsub 10184
-bull 8226
-bullet 8226
-bump 8782
-bumpe 10926
-bumpe 8783
-bumpeq 8783
-cacute 263
-cap 8745
-capand 10820
-capbrcup 10825
-capcap 10827
-capcup 10823
-capdot 10816
-caps 8745, 65024
-caret 8257
-caron 711
-ccaps 10829
-ccaron 269
-ccedil 231
-ccirc 265
-ccups 10828
-ccupssm 10832
-cdot 267
-cedil 184
-cemptyv 10674
-cent 162
-cfr 120096
-chcy 1095
-check 10003
-checkmark 10003
-chi 967
-cir 9675
-cire 10691
-circ 710
-circeq 8791
-circlearrowleft 8634
-circlearrowright 8635
-circledr 174
-circleds 9416
-circledast 8859
-circledcirc 8858
-circleddash 8861
-cire 8791
-cirfnint 10768
-cirmid 10991
-cirscir 10690
-clubs 9827
-clubsuit 9827
-colon 58
-colone 8788
-coloneq 8788
-comma 44
-commat 64
-comp 8705
-compfn 8728
-complement 8705
-complexes 8450
-cong 8773
-congdot 10861
-conint 8750
-copf 120148
-coprod 8720
-copysr 8471
-crarr 8629
-cross 10007
-cscr 119992
-csub 10959
-csube 10961
-csup 10960
-csupe 10962
-ctdot 8943
-cudarrl 10552
-cudarrr 10549
-cuepr 8926
-cuesc 8927
-cularr 8630
-cularrp 10557
-cup 8746
-cupbrcap 10824
-cupcap 10822
-cupcup 10826
-cupdot 8845
-cupor 10821
-cups 8746, 65024
-curarr 8631
-curarrm 10556
-curlyeqprec 8926
-curlyeqsucc 8927
-curlyvee 8910
-curlywedge 8911
-curren 164
-curvearrowleft 8630
-curvearrowright 8631
-cuvee 8910
-cuwed 8911
-cwconint 8754
-cwint 8753
-cylcty 9005
-darr 8659
-dhar 10597
-dagger 8224
-daleth 8504
-darr 8595
-dash 8208
-dashv 8867
-dbkarow 10511
-dblac 733
-dcaron 271
-dcy 1076
-dd 8518
-ddagger 8225
-ddarr 8650
-ddotseq 10871
-deg 176
-delta 948
-demptyv 10673
-dfisht 10623
-dfr 120097
-dharl 8643
-dharr 8642
-diam 8900
-diamondsuit 9830
-diams 9830
-die 168
-digamma 989
-disin 8946
-div 247
-divide 247
-divideontimes 8903
-divonx 8903
-djcy 1106
-dlcorn 8990
-dlcrop 8973
-dollar 36
-dopf 120149
-dot 729
-doteq 8784
-doteqdot 8785
-dotminus 8760
-dotplus 8724
-dotsquare 8865
-doublebarwedge 8966
-downdownarrows 8650
-downharpoonleft 8643
-downharpoonright 8642
-drbkarow 10512
-drcorn 8991
-drcrop 8972
-dscr 119993
-dscy 1109
-dsol 10742
-dstrok 273
-dtdot 8945
-dtri 9663
-dtrif 9662
-duarr 8693
-duhar 10607
-dwangle 10662
-dzcy 1119
-dzigrarr 10239
-eddot 10871
-edot 8785
-eacute 233
-easter 10862
-ecaron 283
-ecir 8790
-ecirc 234
-ecolon 8789
-ecy 1101
-edot 279
-ee 8519
-efdot 8786
-efr 120098
-eg 10906
-egrave 232
-egs 10902
-egsdot 10904
-el 10905
-elinters 9191
-ell 8467
-els 10901
-elsdot 10903
-emacr 275
-empty 8709
-emptyset 8709
-emptyv 8709
-emsp13 8196
-emsp14 8197
-emsp 8195
-eng 331
-ensp 8194
-eogon 281
-eopf 120150
-epar 8917
-eparsl 10723
-eplus 10865
-epsi 949
-epsilon 949
-epsiv 1013
-eqcirc 8790
-eqcolon 8789
-eqsim 8770
-eqslantgtr 10902
-eqslantless 10901
-equals 61
-equest 8799
-equiv 8801
-equivdd 10872
-eqvparsl 10725
-erdot 8787
-erarr 10609
-escr 8495
-esdot 8784
-esim 8770
-eta 951
-eth 240
-euml 235
-euro 8364
-excl 33
-exist 8707
-expectation 8496
-fallingdotseq 8786
-fcy 1092
-female 9792
-ffilig 64259
-fflig 64256
-ffllig 64260
-ffr 120099
-filig 64257
-fjlig 102, 106
-flat 9837
-fllig 64258
-fltns 9649
-fnof 402
-fopf 120151
-fork 8916
-forkv 10969
-fpartint 10765
-frac12 189
-frac13 8531
-frac14 188
-frac15 8533
-frac16 8537
-frac18 8539
-frac23 8532
-frac25 8534
-frac34 190
-frac35 8535
-frac38 8540
-frac45 8536
-frac56 8538
-frac58 8541
-frac78 8542
-frasl 8260
-frown 8994
-fscr 119995
-ge 8807
-gel 10892
-gacute 501
-gamma 947
-gammad 989
-gap 10886
-gbreve 287
-gcirc 285
-gcy 1075
-gdot 289
-ge 8805
-gel 8923
-geq 8805
-geqq 8807
-geqslant 10878
-ges 10878
-gescc 10921
-gesdot 10880
-gesdoto 10882
-gesdotol 10884
-gesl 8923, 65024
-gesles 10900
-gfr 120100
-gg 8811
-ggg 8921
-gimel 8503
-gjcy 1107
-gl 8823
-gle 10898
-gla 10917
-glj 10916
-gne 8809
-gnap 10890
-gnapprox 10890
-gne 10888
-gneq 10888
-gneqq 8809
-gnsim 8935
-gopf 120152
-grave 96
-gscr 8458
-gsim 8819
-gsime 10894
-gsiml 10896
-gtcc 10919
-gtcir 10874
-gtdot 8919
-gtlpar 10645
-gtquest 10876
-gtrapprox 10886
-gtrarr 10616
-gtrdot 8919
-gtreqless 8923
-gtreqqless 10892
-gtrless 8823
-gtrsim 8819
-gvertneqq 8809, 65024
-gvne 8809, 65024
-harr 8660
-hairsp 8202
-half 189
-hamilt 8459
-hardcy 1098
-harr 8596
-harrcir 10568
-harrw 8621
-hbar 8463
-hcirc 293
-hearts 9829
-heartsuit 9829
-hellip 8230
-hercon 8889
-hfr 120101
-hksearow 10533
-hkswarow 10534
-hoarr 8703
-homtht 8763
-hookleftarrow 8617
-hookrightarrow 8618
-hopf 120153
-horbar 8213
-hscr 119997
-hslash 8463
-hstrok 295
-hybull 8259
-hyphen 8208
-iacute 237
-ic 8291
-icirc 238
-icy 1080
-iecy 1077
-iexcl 161
-iff 8660
-ifr 120102
-igrave 236
-ii 8520
-iiiint 10764
-iiint 8749
-iinfin 10716
-iiota 8489
-ijlig 307
-imacr 299
-image 8465
-imagline 8464
-imagpart 8465
-imath 305
-imof 8887
-imped 437
-in 8712
-incare 8453
-infin 8734
-infintie 10717
-inodot 305
-int 8747
-intcal 8890
-integers 8484
-intercal 8890
-intlarhk 10775
-intprod 10812
-iocy 1105
-iogon 303
-iopf 120154
-iota 953
-iprod 10812
-iquest 191
-iscr 119998
-isin 8712
-isine 8953
-isindot 8949
-isins 8948
-isinsv 8947
-isinv 8712
-it 8290
-itilde 297
-iukcy 1110
-iuml 239
-jcirc 309
-jcy 1081
-jfr 120103
-jmath 567
-jopf 120155
-jscr 119999
-jsercy 1112
-jukcy 1108
-kappa 954
-kappav 1008
-kcedil 311
-kcy 1082
-kfr 120104
-kgreen 312
-khcy 1093
-kjcy 1116
-kopf 120156
-kscr 120000
-laarr 8666
-larr 8656
-latail 10523
-lbarr 10510
-le 8806
-leg 10891
-lhar 10594
-lacute 314
-laemptyv 10676
-lagran 8466
-lambda 955
-lang 10216
-langd 10641
-langle 10216
-lap 10885
-laquo 171
-larr 8592
-larrb 8676
-larrbfs 10527
-larrfs 10525
-larrhk 8617
-larrlp 8619
-larrpl 10553
-larrsim 10611
-larrtl 8610
-lat 10923
-latail 10521
-late 10925
-lates 10925, 65024
-lbarr 10508
-lbbrk 10098
-lbrace 123
-lbrack 91
-lbrke 10635
-lbrksld 10639
-lbrkslu 10637
-lcaron 318
-lcedil 316
-lceil 8968
-lcub 123
-lcy 1083
-ldca 10550
-ldquo 8220
-ldquor 8222
-ldrdhar 10599
-ldrushar 10571
-ldsh 8626
-le 8804
-leftarrowtail 8610
-leftharpoondown 8637
-leftharpoonup 8636
-leftleftarrows 8647
-leftrightarrows 8646
-leftrightharpoons 8651
-leftrightsquigarrow 8621
-leftthreetimes 8907
-leg 8922
-leq 8804
-leqq 8806
-leqslant 10877
-les 10877
-lescc 10920
-lesdot 10879
-lesdoto 10881
-lesdotor 10883
-lesg 8922, 65024
-lesges 10899
-lessapprox 10885
-lessdot 8918
-lesseqgtr 8922
-lesseqqgtr 10891
-lessgtr 8822
-lesssim 8818
-lfisht 10620
-lfloor 8970
-lfr 120105
-lg 8822
-lge 10897
-lhard 8637
-lharu 8636
-lharul 10602
-lhblk 9604
-ljcy 1113
-ll 8810
-llarr 8647
-llcorner 8990
-llhard 10603
-lltri 9722
-lmidot 320
-lmoust 9136
-lmoustache 9136
-lne 8808
-lnap 10889
-lnapprox 10889
-lne 10887
-lneq 10887
-lneqq 8808
-lnsim 8934
-loang 10220
-loarr 8701
-lobrk 10214
-longmapsto 10236
-looparrowleft 8619
-looparrowright 8620
-lopar 10629
-lopf 120157
-loplus 10797
-lotimes 10804
-lowast 8727
-lowbar 95
-loz 9674
-lozenge 9674
-lozf 10731
-lpar 40
-lparlt 10643
-lrarr 8646
-lrcorner 8991
-lrhar 8651
-lrhard 10605
-lrm 8206
-lrtri 8895
-lsaquo 8249
-lscr 120001
-lsim 8818
-lsime 10893
-lsimg 10895
-lsqb 91
-lsquo 8216
-lsquor 8218
-lstrok 322
-ltcc 10918
-ltcir 10873
-ltdot 8918
-lthree 8907
-ltimes 8905
-ltlarr 10614
-ltquest 10875
-ltrpar 10646
-ltri 9667
-ltrie 8884
-ltrif 9666
-lurdshar 10570
-luruhar 10598
-lvertneqq 8808, 65024
-lvne 8808, 65024
-mddot 8762
-macr 175
-male 9794
-malt 10016
-maltese 10016
-map 8614
-mapsto 8614
-mapstodown 8615
-mapstoleft 8612
-mapstoup 8613
-marker 9646
-mcomma 10793
-mcy 1084
-mdash 8212
-measuredangle 8737
-mfr 120106
-mho 8487
-micro 181
-mid 8739
-midast 42
-midcir 10992
-middot 183
-minus 8722
-minusb 8863
-minusd 8760
-minusdu 10794
-mlcp 10971
-mldr 8230
-mnplus 8723
-models 8871
-mopf 120158
-mp 8723
-mscr 120002
-mstpos 8766
-mu 956
-multimap 8888
-mumap 8888
-ngg 8921, 824
-ngt 8811, 8402
-ngtv 8811, 824
-nleftarrow 8653
-nleftrightarrow 8654
-nll 8920, 824
-nlt 8810, 8402
-nltv 8810, 824
-nrightarrow 8655
-nvdash 8879
-nvdash 8878
-nabla 8711
-nacute 324
-nang 8736, 8402
-nap 8777
-nape 10864, 824
-napid 8779, 824
-napos 329
-napprox 8777
-natur 9838
-natural 9838
-naturals 8469
-nbsp 160
-nbump 8782, 824
-nbumpe 8783, 824
-ncap 10819
-ncaron 328
-ncedil 326
-ncong 8775
-ncongdot 10861, 824
-ncup 10818
-ncy 1085
-ndash 8211
-ne 8800
-nearr 8663
-nearhk 10532
-nearr 8599
-nearrow 8599
-nedot 8784, 824
-nequiv 8802
-nesear 10536
-nesim 8770, 824
-nexist 8708
-nexists 8708
-nfr 120107
-nge 8807, 824
-nge 8817
-ngeq 8817
-ngeqq 8807, 824
-ngeqslant 10878, 824
-nges 10878, 824
-ngsim 8821
-ngt 8815
-ngtr 8815
-nharr 8654
-nharr 8622
-nhpar 10994
-ni 8715
-nis 8956
-nisd 8954
-niv 8715
-njcy 1114
-nlarr 8653
-nle 8806, 824
-nlarr 8602
-nldr 8229
-nle 8816
-nleftarrow 8602
-nleftrightarrow 8622
-nleq 8816
-nleqq 8806, 824
-nleqslant 10877, 824
-nles 10877, 824
-nless 8814
-nlsim 8820
-nlt 8814
-nltri 8938
-nltrie 8940
-nmid 8740
-nopf 120159
-not 172
-notin 8713
-notine 8953, 824
-notindot 8949, 824
-notinva 8713
-notinvb 8951
-notinvc 8950
-notni 8716
-notniva 8716
-notnivb 8958
-notnivc 8957
-npar 8742
-nparallel 8742
-nparsl 11005, 8421
-npart 8706, 824
-npolint 10772
-npr 8832
-nprcue 8928
-npre 10927, 824
-nprec 8832
-npreceq 10927, 824
-nrarr 8655
-nrarr 8603
-nrarrc 10547, 824
-nrarrw 8605, 824
-nrightarrow 8603
-nrtri 8939
-nrtrie 8941
-nsc 8833
-nsccue 8929
-nsce 10928, 824
-nscr 120003
-nshortmid 8740
-nshortparallel 8742
-nsim 8769
-nsime 8772
-nsimeq 8772
-nsmid 8740
-nspar 8742
-nsqsube 8930
-nsqsupe 8931
-nsub 8836
-nsube 10949, 824
-nsube 8840
-nsubset 8834, 8402
-nsubseteq 8840
-nsubseteqq 10949, 824
-nsucc 8833
-nsucceq 10928, 824
-nsup 8837
-nsupe 10950, 824
-nsupe 8841
-nsupset 8835, 8402
-nsupseteq 8841
-nsupseteqq 10950, 824
-ntgl 8825
-ntilde 241
-ntlg 8824
-ntriangleleft 8938
-ntrianglelefteq 8940
-ntriangleright 8939
-ntrianglerighteq 8941
-nu 957
-num 35
-numero 8470
-numsp 8199
-nvdash 8877
-nvharr 10500
-nvap 8781, 8402
-nvdash 8876
-nvge 8805, 8402
-nvgt 62, 8402
-nvinfin 10718
-nvlarr 10498
-nvle 8804, 8402
-nvlt 60, 8402
-nvltrie 8884, 8402
-nvrarr 10499
-nvrtrie 8885, 8402
-nvsim 8764, 8402
-nwarr 8662
-nwarhk 10531
-nwarr 8598
-nwarrow 8598
-nwnear 10535
-os 9416
-oacute 243
-oast 8859
-ocir 8858
-ocirc 244
-ocy 1086
-odash 8861
-odblac 337
-odiv 10808
-odot 8857
-odsold 10684
-oelig 339
-ofcir 10687
-ofr 120108
-ogon 731
-ograve 242
-ogt 10689
-ohbar 10677
-ohm 937
-oint 8750
-olarr 8634
-olcir 10686
-olcross 10683
-oline 8254
-olt 10688
-omacr 333
-omega 969
-omicron 959
-omid 10678
-ominus 8854
-oopf 120160
-opar 10679
-operp 10681
-oplus 8853
-or 8744
-orarr 8635
-ord 10845
-order 8500
-orderof 8500
-ordf 170
-ordm 186
-origof 8886
-oror 10838
-orslope 10839
-orv 10843
-oscr 8500
-oslash 248
-osol 8856
-otilde 245
-otimes 8855
-otimesas 10806
-ouml 246
-ovbar 9021
-par 8741
-para 182
-parallel 8741
-parsim 10995
-parsl 11005
-part 8706
-pcy 1087
-percnt 37
-period 46
-permil 8240
-perp 8869
-pertenk 8241
-pfr 120109
-phi 966
-phiv 981
-phmmat 8499
-phone 9742
-pi 960
-pitchfork 8916
-piv 982
-planck 8463
-planckh 8462
-plankv 8463
-plus 43
-plusacir 10787
-plusb 8862
-pluscir 10786
-plusdo 8724
-plusdu 10789
-pluse 10866
-plusmn 177
-plussim 10790
-plustwo 10791
-pm 177
-pointint 10773
-popf 120161
-pound 163
-pr 8826
-pre 10931
-prap 10935
-prcue 8828
-pre 10927
-prec 8826
-precapprox 10935
-preccurlyeq 8828
-preceq 10927
-precnapprox 10937
-precneqq 10933
-precnsim 8936
-precsim 8830
-prime 8242
-primes 8473
-prne 10933
-prnap 10937
-prnsim 8936
-prod 8719
-profalar 9006
-profline 8978
-profsurf 8979
-prop 8733
-propto 8733
-prsim 8830
-prurel 8880
-pscr 120005
-psi 968
-puncsp 8200
-qfr 120110
-qint 10764
-qopf 120162
-qprime 8279
-qscr 120006
-quaternions 8461
-quatint 10774
-quest 63
-questeq 8799
-raarr 8667
-rarr 8658
-ratail 10524
-rbarr 10511
-rhar 10596
-race 8765, 817
-racute 341
-radic 8730
-raemptyv 10675
-rang 10217
-rangd 10642
-range 10661
-rangle 10217
-raquo 187
-rarr 8594
-rarrap 10613
-rarrb 8677
-rarrbfs 10528
-rarrc 10547
-rarrfs 10526
-rarrhk 8618
-rarrlp 8620
-rarrpl 10565
-rarrsim 10612
-rarrtl 8611
-rarrw 8605
-ratail 10522
-ratio 8758
-rationals 8474
-rbarr 10509
-rbbrk 10099
-rbrace 125
-rbrack 93
-rbrke 10636
-rbrksld 10638
-rbrkslu 10640
-rcaron 345
-rcedil 343
-rceil 8969
-rcub 125
-rcy 1088
-rdca 10551
-rdldhar 10601
-rdquo 8221
-rdquor 8221
-rdsh 8627
-real 8476
-realine 8475
-realpart 8476
-reals 8477
-rect 9645
-rfisht 10621
-rfloor 8971
-rfr 120111
-rhard 8641
-rharu 8640
-rharul 10604
-rho 961
-rhov 1009
-rightarrowtail 8611
-rightharpoondown 8641
-rightharpoonup 8640
-rightleftarrows 8644
-rightleftharpoons 8652
-rightrightarrows 8649
-rightsquigarrow 8605
-rightthreetimes 8908
-ring 730
-risingdotseq 8787
-rlarr 8644
-rlhar 8652
-rlm 8207
-rmoust 9137
-rmoustache 9137
-rnmid 10990
-roang 10221
-roarr 8702
-robrk 10215
-ropar 10630
-ropf 120163
-roplus 10798
-rotimes 10805
-rpar 41
-rpargt 10644
-rppolint 10770
-rrarr 8649
-rsaquo 8250
-rscr 120007
-rsqb 93
-rsquo 8217
-rsquor 8217
-rthree 8908
-rtimes 8906
-rtri 9657
-rtrie 8885
-rtrif 9656
-rtriltri 10702
-ruluhar 10600
-rx 8478
-sacute 347
-sbquo 8218
-sc 8827
-sce 10932
-scap 10936
-scaron 353
-sccue 8829
-sce 10928
-scedil 351
-scirc 349
-scne 10934
-scnap 10938
-scnsim 8937
-scpolint 10771
-scsim 8831
-scy 1089
-sdot 8901
-sdotb 8865
-sdote 10854
-searr 8664
-searhk 10533
-searr 8600
-searrow 8600
-sect 167
-semi 59
-seswar 10537
-setminus 8726
-setmn 8726
-sext 10038
-sfr 120112
-sfrown 8994
-sharp 9839
-shchcy 1097
-shcy 1096
-shortmid 8739
-shortparallel 8741
-shy 173
-sigma 963
-sigmaf 962
-sigmav 962
-sim 8764
-simdot 10858
-sime 8771
-simeq 8771
-simg 10910
-simge 10912
-siml 10909
-simle 10911
-simne 8774
-simplus 10788
-simrarr 10610
-slarr 8592
-smallsetminus 8726
-smashp 10803
-smeparsl 10724
-smid 8739
-smile 8995
-smt 10922
-smte 10924
-smtes 10924, 65024
-softcy 1100
-sol 47
-solb 10692
-solbar 9023
-sopf 120164
-spades 9824
-spadesuit 9824
-spar 8741
-sqcap 8851
-sqcaps 8851, 65024
-sqcup 8852
-sqcups 8852, 65024
-sqsub 8847
-sqsube 8849
-sqsubset 8847
-sqsubseteq 8849
-sqsup 8848
-sqsupe 8850
-sqsupset 8848
-sqsupseteq 8850
-squ 9633
-squarf 9642
-squf 9642
-srarr 8594
-sscr 120008
-ssetmn 8726
-ssmile 8995
-sstarf 8902
-star 9734
-starf 9733
-straightepsilon 1013
-straightphi 981
-strns 175
-sub 8834
-sube 10949
-subdot 10941
-sube 8838
-subedot 10947
-submult 10945
-subne 10955
-subne 8842
-subplus 10943
-subrarr 10617
-subset 8834
-subseteq 8838
-subseteqq 10949
-subsetneq 8842
-subsetneqq 10955
-subsim 10951
-subsub 10965
-subsup 10963
-succ 8827
-succapprox 10936
-succcurlyeq 8829
-succeq 10928
-succnapprox 10938
-succneqq 10934
-succnsim 8937
-succsim 8831
-sung 9834
-sup1 185
-sup2 178
-sup3 179
-sup 8835
-supe 10950
-supdot 10942
-supdsub 10968
-supe 8839
-supedot 10948
-suphsol 10185
-suphsub 10967
-suplarr 10619
-supmult 10946
-supne 10956
-supne 8843
-supplus 10944
-supset 8835
-supseteq 8839
-supseteqq 10950
-supsetneq 8843
-supsetneqq 10956
-supsim 10952
-supsub 10964
-supsup 10966
-swarr 8665
-swarhk 10534
-swarr 8601
-swarrow 8601
-swnwar 10538
-szlig 223
-target 8982
-tau 964
-tbrk 9140
-tcaron 357
-tcedil 355
-tcy 1090
-tdot 8411
-telrec 8981
-tfr 120113
-there4 8756
-theta 952
-thetasym 977
-thetav 977
-thickapprox 8776
-thicksim 8764
-thinsp 8201
-thkap 8776
-thksim 8764
-thorn 254
-tilde 732
-times 215
-timesb 8864
-timesbar 10801
-timesd 10800
-tint 8749
-toea 10536
-top 8868
-topbot 9014
-topcir 10993
-topf 120165
-topfork 10970
-tosa 10537
-tprime 8244
-triangle 9653
-triangledown 9663
-triangleleft 9667
-trianglelefteq 8884
-triangleq 8796
-triangleright 9657
-trianglerighteq 8885
-tridot 9708
-trie 8796
-triminus 10810
-triplus 10809
-trisb 10701
-tritime 10811
-trpezium 9186
-tscr 120009
-tscy 1094
-tshcy 1115
-tstrok 359
-twixt 8812
-twoheadleftarrow 8606
-twoheadrightarrow 8608
-uarr 8657
-uhar 10595
-uacute 250
-uarr 8593
-ubrcy 1118
-ubreve 365
-ucirc 251
-ucy 1091
-udarr 8645
-udblac 369
-udhar 10606
-ufisht 10622
-ufr 120114
-ugrave 249
-uharl 8639
-uharr 8638
-uhblk 9600
-ulcorn 8988
-ulcorner 8988
-ulcrop 8975
-ultri 9720
-umacr 363
-uml 168
-uogon 371
-uopf 120166
-upharpoonleft 8639
-upharpoonright 8638
-uplus 8846
-upsi 965
-upsih 978
-upsilon 965
-upuparrows 8648
-urcorn 8989
-urcorner 8989
-urcrop 8974
-uring 367
-urtri 9721
-uscr 120010
-utdot 8944
-utilde 361
-utri 9653
-utrif 9652
-uuarr 8648
-uuml 252
-uwangle 10663
-varr 8661
-vbar 10984
-vbarv 10985
-vdash 8872
-vangrt 10652
-varepsilon 1013
-varkappa 1008
-varnothing 8709
-varphi 981
-varpi 982
-varpropto 8733
-varr 8597
-varrho 1009
-varsigma 962
-varsubsetneq 8842, 65024
-varsubsetneqq 10955, 65024
-varsupsetneq 8843, 65024
-varsupsetneqq 10956, 65024
-vartheta 977
-vartriangleleft 8882
-vartriangleright 8883
-vcy 1074
-vdash 8866
-vee 8744
-veebar 8891
-veeeq 8794
-vellip 8942
-verbar 124
-vert 124
-vfr 120115
-vltri 8882
-vnsub 8834, 8402
-vnsup 8835, 8402
-vopf 120167
-vprop 8733
-vrtri 8883
-vscr 120011
-vsubne 10955, 65024
-vsubne 8842, 65024
-vsupne 10956, 65024
-vsupne 8843, 65024
-vzigzag 10650
-wcirc 373
-wedbar 10847
-wedge 8743
-wedgeq 8793
-weierp 8472
-wfr 120116
-wopf 120168
-wp 8472
-wr 8768
-wreath 8768
-wscr 120012
-xcap 8898
-xcirc 9711
-xcup 8899
-xdtri 9661
-xfr 120117
-xharr 10234
-xharr 10231
-xi 958
-xlarr 10232
-xlarr 10229
-xmap 10236
-xnis 8955
-xodot 10752
-xopf 120169
-xoplus 10753
-xotime 10754
-xrarr 10233
-xrarr 10230
-xscr 120013
-xsqcup 10758
-xuplus 10756
-xutri 9651
-xvee 8897
-xwedge 8896
-yacute 253
-yacy 1103
-ycirc 375
-ycy 1099
-yen 165
-yfr 120118
-yicy 1111
-yopf 120170
-yscr 120014
-yucy 1102
-yuml 255
-zacute 378
-zcaron 382
-zcy 1079
-zdot 380
-zeetrf 8488
-zeta 950
-zfr 120119
-zhcy 1078
-zigrarr 8669
-zopf 120171
-zscr 120015
-zwj 8205
-zwnj 820`;
+module.exports=`aelig198
+amp38
+aacute193
+abreve258
+acirc194
+acy1040
+afr120068
+agrave192
+alpha913
+amacr256
+and10835
+aogon260
+aopf120120
+applyfunction8289
+aring197
+ascr119964
+assign8788
+atilde195
+auml196
+backslash8726
+barv10983
+barwed8966
+bcy1041
+because8757
+bernoullis8492
+beta914
+bfr120069
+bopf120121
+breve728
+bscr8492
+bumpeq8782
+chcy1063
+copy169
+cacute262
+cap8914
+capitaldifferentiald8517
+cayleys8493
+ccaron268
+ccedil199
+ccirc264
+cconint8752
+cdot266
+cedilla184
+centerdot183
+cfr8493
+chi935
+circledot8857
+circleminus8854
+circleplus8853
+circletimes8855
+clockwisecontourintegral8754
+closecurlydoublequote8221
+closecurlyquote8217
+colon8759
+colone10868
+congruent8801
+conint8751
+contourintegral8750
+copf8450
+coproduct8720
+counterclockwisecontourintegral8755
+cross10799
+cscr119966
+cup8915
+cupcap8781
+dd8517
+ddotrahd10513
+djcy1026
+dscy1029
+dzcy1039
+dagger8225
+darr8609
+dashv10980
+dcaron270
+dcy1044
+del8711
+delta916
+dfr120071
+diacriticalacute180
+diacriticaldot729
+diacriticaldoubleacute733
+diacriticalgrave96
+diacriticaltilde732
+diamond8900
+differentiald8518
+dopf120123
+dot168
+dotdot8412
+dotequal8784
+doublecontourintegral8751
+doubledot168
+doubledownarrow8659
+doubleleftarrow8656
+doubleleftrightarrow8660
+doublelefttee10980
+doublelongleftarrow10232
+doublelongleftrightarrow10234
+doublelongrightarrow10233
+doublerightarrow8658
+doublerighttee8872
+doubleuparrow8657
+doubleupdownarrow8661
+doubleverticalbar8741
+downarrow8595
+downarrowbar10515
+downarrowuparrow8693
+downbreve785
+downleftrightvector10576
+downleftteevector10590
+downleftvector8637
+downleftvectorbar10582
+downrightteevector10591
+downrightvector8641
+downrightvectorbar10583
+downtee8868
+downteearrow8615
+downarrow8659
+dscr119967
+dstrok272
+eng330
+eth208
+eacute201
+ecaron282
+ecirc202
+ecy1069
+edot278
+efr120072
+egrave200
+element8712
+emacr274
+emptysmallsquare9723
+emptyverysmallsquare9643
+eogon280
+eopf120124
+epsilon917
+equal10869
+equaltilde8770
+equilibrium8652
+escr8496
+esim10867
+eta919
+euml203
+exists8707
+exponentiale8519
+fcy1060
+ffr120073
+filledsmallsquare9724
+filledverysmallsquare9642
+fopf120125
+forall8704
+fouriertrf8497
+fscr8497
+gjcy1027
+gt62
+gamma915
+gammad988
+gbreve286
+gcedil290
+gcirc284
+gcy1043
+gdot288
+gfr120074
+gg8921
+gopf120126
+greaterequal8805
+greaterequalless8923
+greaterfullequal8807
+greatergreater10914
+greaterless8823
+greaterslantequal10878
+greatertilde8819
+gscr119970
+gt8811
+hardcy1066
+hacek711
+hat94
+hcirc292
+hfr8460
+hilbertspace8459
+hopf8461
+horizontalline9472
+hscr8459
+hstrok294
+humpdownhump8782
+humpequal8783
+iecy1045
+ijlig306
+iocy1025
+iacute205
+icirc206
+icy1048
+idot304
+ifr8465
+igrave204
+im8465
+imacr298
+imaginaryi8520
+implies8658
+int8748
+integral8747
+intersection8898
+invisiblecomma8291
+invisibletimes8290
+iogon302
+iopf120128
+iota921
+iscr8464
+itilde296
+iukcy1030
+iuml207
+jcirc308
+jcy1049
+jfr120077
+jopf120129
+jscr119973
+jsercy1032
+jukcy1028
+khcy1061
+kjcy1036
+kappa922
+kcedil310
+kcy1050
+kfr120078
+kopf120130
+kscr119974
+ljcy1033
+lt60
+lacute313
+lambda923
+lang10218
+laplacetrf8466
+larr8606
+lcaron317
+lcedil315
+lcy1051
+leftanglebracket10216
+leftarrow8592
+leftarrowbar8676
+leftarrowrightarrow8646
+leftceiling8968
+leftdoublebracket10214
+leftdownteevector10593
+leftdownvector8643
+leftdownvectorbar10585
+leftfloor8970
+leftrightarrow8596
+leftrightvector10574
+lefttee8867
+leftteearrow8612
+leftteevector10586
+lefttriangle8882
+lefttrianglebar10703
+lefttriangleequal8884
+leftupdownvector10577
+leftupteevector10592
+leftupvector8639
+leftupvectorbar10584
+leftvector8636
+leftvectorbar10578
+leftarrow8656
+leftrightarrow8660
+lessequalgreater8922
+lessfullequal8806
+lessgreater8822
+lessless10913
+lessslantequal10877
+lesstilde8818
+lfr120079
+ll8920
+lleftarrow8666
+lmidot319
+longleftarrow10229
+longleftrightarrow10231
+longrightarrow10230
+longleftarrow10232
+longleftrightarrow10234
+longrightarrow10233
+lopf120131
+lowerleftarrow8601
+lowerrightarrow8600
+lscr8466
+lsh8624
+lstrok321
+lt8810
+map10501
+mcy1052
+mediumspace8287
+mellintrf8499
+mfr120080
+minusplus8723
+mopf120132
+mscr8499
+mu924
+njcy1034
+nacute323
+ncaron327
+ncedil325
+ncy1053
+negativemediumspace8203
+negativethickspace8203
+negativethinspace8203
+negativeverythinspace8203
+nestedgreatergreater8811
+nestedlessless8810
+newline10
+nfr120081
+nobreak8288
+nonbreakingspace160
+nopf8469
+not10988
+notcongruent8802
+notcupcap8813
+notdoubleverticalbar8742
+notelement8713
+notequal8800
+notequaltilde8770
+notexists8708
+notgreater8815
+notgreaterequal8817
+notgreaterfullequal8807
+notgreatergreater8811
+notgreaterless8825
+notgreaterslantequal10878
+notgreatertilde8821
+nothumpdownhump8782
+nothumpequal8783
+notlefttriangle8938
+notlefttrianglebar10703
+notlefttriangleequal8940
+notless8814
+notlessequal8816
+notlessgreater8824
+notlessless8810
+notlessslantequal10877
+notlesstilde8820
+notnestedgreatergreater10914
+notnestedlessless10913
+notprecedes8832
+notprecedesequal10927
+notprecedesslantequal8928
+notreverseelement8716
+notrighttriangle8939
+notrighttrianglebar10704
+notrighttriangleequal8941
+notsquaresubset8847
+notsquaresubsetequal8930
+notsquaresuperset8848
+notsquaresupersetequal8931
+notsubset8834
+notsubsetequal8840
+notsucceeds8833
+notsucceedsequal10928
+notsucceedsslantequal8929
+notsucceedstilde8831
+notsuperset8835
+notsupersetequal8841
+nottilde8769
+nottildeequal8772
+nottildefullequal8775
+nottildetilde8777
+notverticalbar8740
+nscr119977
+ntilde209
+nu925
+oelig338
+oacute211
+ocirc212
+ocy1054
+odblac336
+ofr120082
+ograve210
+omacr332
+omega937
+omicron927
+oopf120134
+opencurlydoublequote8220
+opencurlyquote8216
+or10836
+oscr119978
+oslash216
+otilde213
+otimes10807
+ouml214
+overbar8254
+overbrace9182
+overbracket9140
+overparenthesis9180
+partiald8706
+pcy1055
+pfr120083
+phi934
+pi928
+plusminus177
+poincareplane8460
+popf8473
+pr10939
+precedes8826
+precedesequal10927
+precedesslantequal8828
+precedestilde8830
+prime8243
+product8719
+proportion8759
+proportional8733
+pscr119979
+psi936
+quot34
+qfr120084
+qopf8474
+qscr119980
+rbarr10512
+reg174
+racute340
+rang10219
+rarr8608
+rarrtl10518
+rcaron344
+rcedil342
+rcy1056
+re8476
+reverseelement8715
+reverseequilibrium8651
+reverseupequilibrium10607
+rfr8476
+rho929
+rightanglebracket10217
+rightarrow8594
+rightarrowbar8677
+rightarrowleftarrow8644
+rightceiling8969
+rightdoublebracket10215
+rightdownteevector10589
+rightdownvector8642
+rightdownvectorbar10581
+rightfloor8971
+righttee8866
+rightteearrow8614
+rightteevector10587
+righttriangle8883
+righttrianglebar10704
+righttriangleequal8885
+rightupdownvector10575
+rightupteevector10588
+rightupvector8638
+rightupvectorbar10580
+rightvector8640
+rightvectorbar10579
+rightarrow8658
+ropf8477
+roundimplies10608
+rrightarrow8667
+rscr8475
+rsh8625
+ruledelayed10740
+shchcy1065
+shcy1064
+softcy1068
+sacute346
+sc10940
+scaron352
+scedil350
+scirc348
+scy1057
+sfr120086
+shortdownarrow8595
+shortleftarrow8592
+shortrightarrow8594
+shortuparrow8593
+sigma931
+smallcircle8728
+sopf120138
+sqrt8730
+square9633
+squareintersection8851
+squaresubset8847
+squaresubsetequal8849
+squaresuperset8848
+squaresupersetequal8850
+squareunion8852
+sscr119982
+star8902
+sub8912
+subset8912
+subsetequal8838
+succeeds8827
+succeedsequal10928
+succeedsslantequal8829
+succeedstilde8831
+suchthat8715
+sum8721
+sup8913
+superset8835
+supersetequal8839
+supset8913
+thorn222
+trade8482
+tshcy1035
+tscy1062
+tab9
+tau932
+tcaron356
+tcedil354
+tcy1058
+tfr120087
+therefore8756
+theta920
+thickspace8287
+thinspace8201
+tilde8764
+tildeequal8771
+tildefullequal8773
+tildetilde8776
+topf120139
+tripledot8411
+tscr119983
+tstrok358
+uacute218
+uarr8607
+uarrocir10569
+ubrcy1038
+ubreve364
+ucirc219
+ucy1059
+udblac368
+ufr120088
+ugrave217
+umacr362
+underbar95
+underbrace9183
+underbracket9141
+underparenthesis9181
+union8899
+unionplus8846
+uogon370
+uopf120140
+uparrow8593
+uparrowbar10514
+uparrowdownarrow8645
+updownarrow8597
+upequilibrium10606
+uptee8869
+upteearrow8613
+uparrow8657
+updownarrow8661
+upperleftarrow8598
+upperrightarrow8599
+upsi978
+upsilon933
+uring366
+uscr119984
+utilde360
+uuml220
+vdash8875
+vbar10987
+vcy1042
+vdash8873
+vdashl10982
+vee8897
+verbar8214
+vert8214
+verticalbar8739
+verticalline124
+verticalseparator10072
+verticaltilde8768
+verythinspace8202
+vfr120089
+vopf120141
+vscr119985
+vvdash8874
+wcirc372
+wedge8896
+wfr120090
+wopf120142
+wscr119986
+xfr120091
+xi926
+xopf120143
+xscr119987
+yacy1071
+yicy1031
+yucy1070
+yacute221
+ycirc374
+ycy1067
+yfr120092
+yopf120144
+yscr119988
+yuml376
+zhcy1046
+zacute377
+zcaron381
+zcy1047
+zdot379
+zerowidthspace8203
+zeta918
+zfr8488
+zopf8484
+zscr119989
+aacute225
+abreve259
+ac8766
+ace8766
+acd8767
+acirc226
+acute180
+acy1072
+aelig230
+af8289
+afr120094
+agrave224
+alefsym8501
+aleph8501
+alpha945
+amacr257
+amalg10815
+and8743
+andand10837
+andd10844
+andslope10840
+andv10842
+ang8736
+ange10660
+angle8736
+angmsd8737
+angmsdaa10664
+angmsdab10665
+angmsdac10666
+angmsdad10667
+angmsdae10668
+angmsdaf10669
+angmsdag10670
+angmsdah10671
+angrt8735
+angrtvb8894
+angrtvbd10653
+angsph8738
+angst197
+angzarr9084
+aogon261
+aopf120146
+ap8776
+ape10864
+apacir10863
+ape8778
+apid8779
+apos39
+approx8776
+approxeq8778
+aring229
+ascr119990
+ast42
+asymp8776
+asympeq8781
+atilde227
+auml228
+awconint8755
+awint10769
+bnot10989
+backcong8780
+backepsilon1014
+backprime8245
+backsim8765
+backsimeq8909
+barvee8893
+barwed8965
+barwedge8965
+bbrk9141
+bbrktbrk9142
+bcong8780
+bcy1073
+bdquo8222
+becaus8757
+bemptyv10672
+bepsi1014
+bernou8492
+beta946
+beth8502
+between8812
+bfr120095
+bigcap8898
+bigcirc9711
+bigcup8899
+bigodot10752
+bigoplus10753
+bigotimes10754
+bigsqcup10758
+bigstar9733
+bigtriangledown9661
+bigtriangleup9651
+biguplus10756
+bigvee8897
+bigwedge8896
+bkarow10509
+blacklozenge10731
+blacksquare9642
+blacktriangle9652
+blacktriangledown9662
+blacktriangleleft9666
+blacktriangleright9656
+blank9251
+blk129618
+blk149617
+blk349619
+block9608
+bne61
+bnequiv8801
+bnot8976
+bopf120147
+bot8869
+bottom8869
+bowtie8904
+boxdl9559
+boxdr9556
+boxdl9558
+boxdr9555
+boxh9552
+boxhd9574
+boxhu9577
+boxhd9572
+boxhu9575
+boxul9565
+boxur9562
+boxul9564
+boxur9561
+boxv9553
+boxvh9580
+boxvl9571
+boxvr9568
+boxvh9579
+boxvl9570
+boxvr9567
+boxbox10697
+boxdl9557
+boxdr9554
+boxdl9488
+boxdr9484
+boxh9472
+boxhd9573
+boxhu9576
+boxhd9516
+boxhu9524
+boxminus8863
+boxplus8862
+boxtimes8864
+boxul9563
+boxur9560
+boxul9496
+boxur9492
+boxv9474
+boxvh9578
+boxvl9569
+boxvr9566
+boxvh9532
+boxvl9508
+boxvr9500
+bprime8245
+brvbar166
+bscr119991
+bsemi8271
+bsim8765
+bsime8909
+bsol92
+bsolb10693
+bsolhsub10184
+bull8226
+bullet8226
+bump8782
+bumpe10926
+bumpe8783
+bumpeq8783
+cacute263
+cap8745
+capand10820
+capbrcup10825
+capcap10827
+capcup10823
+capdot10816
+caps8745
+caret8257
+caron711
+ccaps10829
+ccaron269
+ccedil231
+ccirc265
+ccups10828
+ccupssm10832
+cdot267
+cedil184
+cemptyv10674
+cent162
+cfr120096
+chcy1095
+check10003
+checkmark10003
+chi967
+cir9675
+cire10691
+circ710
+circeq8791
+circlearrowleft8634
+circlearrowright8635
+circledr174
+circleds9416
+circledast8859
+circledcirc8858
+circleddash8861
+cire8791
+cirfnint10768
+cirmid10991
+cirscir10690
+clubs9827
+clubsuit9827
+colon58
+colone8788
+coloneq8788
+comma44
+commat64
+comp8705
+compfn8728
+complement8705
+complexes8450
+cong8773
+congdot10861
+conint8750
+copf120148
+coprod8720
+copysr8471
+crarr8629
+cross10007
+cscr119992
+csub10959
+csube10961
+csup10960
+csupe10962
+ctdot8943
+cudarrl10552
+cudarrr10549
+cuepr8926
+cuesc8927
+cularr8630
+cularrp10557
+cup8746
+cupbrcap10824
+cupcap10822
+cupcup10826
+cupdot8845
+cupor10821
+cups8746
+curarr8631
+curarrm10556
+curlyeqprec8926
+curlyeqsucc8927
+curlyvee8910
+curlywedge8911
+curren164
+curvearrowleft8630
+curvearrowright8631
+cuvee8910
+cuwed8911
+cwconint8754
+cwint8753
+cylcty9005
+darr8659
+dhar10597
+dagger8224
+daleth8504
+darr8595
+dash8208
+dashv8867
+dbkarow10511
+dblac733
+dcaron271
+dcy1076
+dd8518
+ddagger8225
+ddarr8650
+ddotseq10871
+deg176
+delta948
+demptyv10673
+dfisht10623
+dfr120097
+dharl8643
+dharr8642
+diam8900
+diamondsuit9830
+diams9830
+die168
+digamma989
+disin8946
+div247
+divide247
+divideontimes8903
+divonx8903
+djcy1106
+dlcorn8990
+dlcrop8973
+dollar36
+dopf120149
+dot729
+doteq8784
+doteqdot8785
+dotminus8760
+dotplus8724
+dotsquare8865
+doublebarwedge8966
+downdownarrows8650
+downharpoonleft8643
+downharpoonright8642
+drbkarow10512
+drcorn8991
+drcrop8972
+dscr119993
+dscy1109
+dsol10742
+dstrok273
+dtdot8945
+dtri9663
+dtrif9662
+duarr8693
+duhar10607
+dwangle10662
+dzcy1119
+dzigrarr10239
+eddot10871
+edot8785
+eacute233
+easter10862
+ecaron283
+ecir8790
+ecirc234
+ecolon8789
+ecy1101
+edot279
+ee8519
+efdot8786
+efr120098
+eg10906
+egrave232
+egs10902
+egsdot10904
+el10905
+elinters9191
+ell8467
+els10901
+elsdot10903
+emacr275
+empty8709
+emptyset8709
+emptyv8709
+emsp138196
+emsp148197
+emsp8195
+eng331
+ensp8194
+eogon281
+eopf120150
+epar8917
+eparsl10723
+eplus10865
+epsi949
+epsilon949
+epsiv1013
+eqcirc8790
+eqcolon8789
+eqsim8770
+eqslantgtr10902
+eqslantless10901
+equals61
+equest8799
+equiv8801
+equivdd10872
+eqvparsl10725
+erdot8787
+erarr10609
+escr8495
+esdot8784
+esim8770
+eta951
+eth240
+euml235
+euro8364
+excl33
+exist8707
+expectation8496
+fallingdotseq8786
+fcy1092
+female9792
+ffilig64259
+fflig64256
+ffllig64260
+ffr120099
+filig64257
+fjlig102
+flat9837
+fllig64258
+fltns9649
+fnof402
+fopf120151
+fork8916
+forkv10969
+fpartint10765
+frac12189
+frac138531
+frac14188
+frac158533
+frac168537
+frac188539
+frac238532
+frac258534
+frac34190
+frac358535
+frac388540
+frac458536
+frac568538
+frac588541
+frac788542
+frasl8260
+frown8994
+fscr119995
+ge8807
+gel10892
+gacute501
+gamma947
+gammad989
+gap10886
+gbreve287
+gcirc285
+gcy1075
+gdot289
+ge8805
+gel8923
+geq8805
+geqq8807
+geqslant10878
+ges10878
+gescc10921
+gesdot10880
+gesdoto10882
+gesdotol10884
+gesl8923
+gesles10900
+gfr120100
+gg8811
+ggg8921
+gimel8503
+gjcy1107
+gl8823
+gle10898
+gla10917
+glj10916
+gne8809
+gnap10890
+gnapprox10890
+gne10888
+gneq10888
+gneqq8809
+gnsim8935
+gopf120152
+grave96
+gscr8458
+gsim8819
+gsime10894
+gsiml10896
+gtcc10919
+gtcir10874
+gtdot8919
+gtlpar10645
+gtquest10876
+gtrapprox10886
+gtrarr10616
+gtrdot8919
+gtreqless8923
+gtreqqless10892
+gtrless8823
+gtrsim8819
+gvertneqq8809
+gvne8809
+harr8660
+hairsp8202
+half189
+hamilt8459
+hardcy1098
+harr8596
+harrcir10568
+harrw8621
+hbar8463
+hcirc293
+hearts9829
+heartsuit9829
+hellip8230
+hercon8889
+hfr120101
+hksearow10533
+hkswarow10534
+hoarr8703
+homtht8763
+hookleftarrow8617
+hookrightarrow8618
+hopf120153
+horbar8213
+hscr119997
+hslash8463
+hstrok295
+hybull8259
+hyphen8208
+iacute237
+ic8291
+icirc238
+icy1080
+iecy1077
+iexcl161
+iff8660
+ifr120102
+igrave236
+ii8520
+iiiint10764
+iiint8749
+iinfin10716
+iiota8489
+ijlig307
+imacr299
+image8465
+imagline8464
+imagpart8465
+imath305
+imof8887
+imped437
+in8712
+incare8453
+infin8734
+infintie10717
+inodot305
+int8747
+intcal8890
+integers8484
+intercal8890
+intlarhk10775
+intprod10812
+iocy1105
+iogon303
+iopf120154
+iota953
+iprod10812
+iquest191
+iscr119998
+isin8712
+isine8953
+isindot8949
+isins8948
+isinsv8947
+isinv8712
+it8290
+itilde297
+iukcy1110
+iuml239
+jcirc309
+jcy1081
+jfr120103
+jmath567
+jopf120155
+jscr119999
+jsercy1112
+jukcy1108
+kappa954
+kappav1008
+kcedil311
+kcy1082
+kfr120104
+kgreen312
+khcy1093
+kjcy1116
+kopf120156
+kscr120000
+laarr8666
+larr8656
+latail10523
+lbarr10510
+le8806
+leg10891
+lhar10594
+lacute314
+laemptyv10676
+lagran8466
+lambda955
+lang10216
+langd10641
+langle10216
+lap10885
+laquo171
+larr8592
+larrb8676
+larrbfs10527
+larrfs10525
+larrhk8617
+larrlp8619
+larrpl10553
+larrsim10611
+larrtl8610
+lat10923
+latail10521
+late10925
+lates10925
+lbarr10508
+lbbrk10098
+lbrace123
+lbrack91
+lbrke10635
+lbrksld10639
+lbrkslu10637
+lcaron318
+lcedil316
+lceil8968
+lcub123
+lcy1083
+ldca10550
+ldquo8220
+ldquor8222
+ldrdhar10599
+ldrushar10571
+ldsh8626
+le8804
+leftarrowtail8610
+leftharpoondown8637
+leftharpoonup8636
+leftleftarrows8647
+leftrightarrows8646
+leftrightharpoons8651
+leftrightsquigarrow8621
+leftthreetimes8907
+leg8922
+leq8804
+leqq8806
+leqslant10877
+les10877
+lescc10920
+lesdot10879
+lesdoto10881
+lesdotor10883
+lesg8922
+lesges10899
+lessapprox10885
+lessdot8918
+lesseqgtr8922
+lesseqqgtr10891
+lessgtr8822
+lesssim8818
+lfisht10620
+lfloor8970
+lfr120105
+lg8822
+lge10897
+lhard8637
+lharu8636
+lharul10602
+lhblk9604
+ljcy1113
+ll8810
+llarr8647
+llcorner8990
+llhard10603
+lltri9722
+lmidot320
+lmoust9136
+lmoustache9136
+lne8808
+lnap10889
+lnapprox10889
+lne10887
+lneq10887
+lneqq8808
+lnsim8934
+loang10220
+loarr8701
+lobrk10214
+longmapsto10236
+looparrowleft8619
+looparrowright8620
+lopar10629
+lopf120157
+loplus10797
+lotimes10804
+lowast8727
+lowbar95
+loz9674
+lozenge9674
+lozf10731
+lpar40
+lparlt10643
+lrarr8646
+lrcorner8991
+lrhar8651
+lrhard10605
+lrm8206
+lrtri8895
+lsaquo8249
+lscr120001
+lsim8818
+lsime10893
+lsimg10895
+lsqb91
+lsquo8216
+lsquor8218
+lstrok322
+ltcc10918
+ltcir10873
+ltdot8918
+lthree8907
+ltimes8905
+ltlarr10614
+ltquest10875
+ltrpar10646
+ltri9667
+ltrie8884
+ltrif9666
+lurdshar10570
+luruhar10598
+lvertneqq8808
+lvne8808
+mddot8762
+macr175
+male9794
+malt10016
+maltese10016
+map8614
+mapsto8614
+mapstodown8615
+mapstoleft8612
+mapstoup8613
+marker9646
+mcomma10793
+mcy1084
+mdash8212
+measuredangle8737
+mfr120106
+mho8487
+micro181
+mid8739
+midast42
+midcir10992
+middot183
+minus8722
+minusb8863
+minusd8760
+minusdu10794
+mlcp10971
+mldr8230
+mnplus8723
+models8871
+mopf120158
+mp8723
+mscr120002
+mstpos8766
+mu956
+multimap8888
+mumap8888
+ngg8921
+ngt8811
+ngtv8811
+nleftarrow8653
+nleftrightarrow8654
+nll8920
+nlt8810
+nltv8810
+nrightarrow8655
+nvdash8879
+nvdash8878
+nabla8711
+nacute324
+nang8736
+nap8777
+nape10864
+napid8779
+napos329
+napprox8777
+natur9838
+natural9838
+naturals8469
+nbsp160
+nbump8782
+nbumpe8783
+ncap10819
+ncaron328
+ncedil326
+ncong8775
+ncongdot10861
+ncup10818
+ncy1085
+ndash8211
+ne8800
+nearr8663
+nearhk10532
+nearr8599
+nearrow8599
+nedot8784
+nequiv8802
+nesear10536
+nesim8770
+nexist8708
+nexists8708
+nfr120107
+nge8807
+nge8817
+ngeq8817
+ngeqq8807
+ngeqslant10878
+nges10878
+ngsim8821
+ngt8815
+ngtr8815
+nharr8654
+nharr8622
+nhpar10994
+ni8715
+nis8956
+nisd8954
+niv8715
+njcy1114
+nlarr8653
+nle8806
+nlarr8602
+nldr8229
+nle8816
+nleftarrow8602
+nleftrightarrow8622
+nleq8816
+nleqq8806
+nleqslant10877
+nles10877
+nless8814
+nlsim8820
+nlt8814
+nltri8938
+nltrie8940
+nmid8740
+nopf120159
+not172
+notin8713
+notine8953
+notindot8949
+notinva8713
+notinvb8951
+notinvc8950
+notni8716
+notniva8716
+notnivb8958
+notnivc8957
+npar8742
+nparallel8742
+nparsl11005
+npart8706
+npolint10772
+npr8832
+nprcue8928
+npre10927
+nprec8832
+npreceq10927
+nrarr8655
+nrarr8603
+nrarrc10547
+nrarrw8605
+nrightarrow8603
+nrtri8939
+nrtrie8941
+nsc8833
+nsccue8929
+nsce10928
+nscr120003
+nshortmid8740
+nshortparallel8742
+nsim8769
+nsime8772
+nsimeq8772
+nsmid8740
+nspar8742
+nsqsube8930
+nsqsupe8931
+nsub8836
+nsube10949
+nsube8840
+nsubset8834
+nsubseteq8840
+nsubseteqq10949
+nsucc8833
+nsucceq10928
+nsup8837
+nsupe10950
+nsupe8841
+nsupset8835
+nsupseteq8841
+nsupseteqq10950
+ntgl8825
+ntilde241
+ntlg8824
+ntriangleleft8938
+ntrianglelefteq8940
+ntriangleright8939
+ntrianglerighteq8941
+nu957
+num35
+numero8470
+numsp8199
+nvdash8877
+nvharr10500
+nvap8781
+nvdash8876
+nvge8805
+nvgt62
+nvinfin10718
+nvlarr10498
+nvle8804
+nvlt60
+nvltrie8884
+nvrarr10499
+nvrtrie8885
+nvsim8764
+nwarr8662
+nwarhk10531
+nwarr8598
+nwarrow8598
+nwnear10535
+os9416
+oacute243
+oast8859
+ocir8858
+ocirc244
+ocy1086
+odash8861
+odblac337
+odiv10808
+odot8857
+odsold10684
+oelig339
+ofcir10687
+ofr120108
+ogon731
+ograve242
+ogt10689
+ohbar10677
+ohm937
+oint8750
+olarr8634
+olcir10686
+olcross10683
+oline8254
+olt10688
+omacr333
+omega969
+omicron959
+omid10678
+ominus8854
+oopf120160
+opar10679
+operp10681
+oplus8853
+or8744
+orarr8635
+ord10845
+order8500
+orderof8500
+ordf170
+ordm186
+origof8886
+oror10838
+orslope10839
+orv10843
+oscr8500
+oslash248
+osol8856
+otilde245
+otimes8855
+otimesas10806
+ouml246
+ovbar9021
+par8741
+para182
+parallel8741
+parsim10995
+parsl11005
+part8706
+pcy1087
+percnt37
+period46
+permil8240
+perp8869
+pertenk8241
+pfr120109
+phi966
+phiv981
+phmmat8499
+phone9742
+pi960
+pitchfork8916
+piv982
+planck8463
+planckh8462
+plankv8463
+plus43
+plusacir10787
+plusb8862
+pluscir10786
+plusdo8724
+plusdu10789
+pluse10866
+plusmn177
+plussim10790
+plustwo10791
+pm177
+pointint10773
+popf120161
+pound163
+pr8826
+pre10931
+prap10935
+prcue8828
+pre10927
+prec8826
+precapprox10935
+preccurlyeq8828
+preceq10927
+precnapprox10937
+precneqq10933
+precnsim8936
+precsim8830
+prime8242
+primes8473
+prne10933
+prnap10937
+prnsim8936
+prod8719
+profalar9006
+profline8978
+profsurf8979
+prop8733
+propto8733
+prsim8830
+prurel8880
+pscr120005
+psi968
+puncsp8200
+qfr120110
+qint10764
+qopf120162
+qprime8279
+qscr120006
+quaternions8461
+quatint10774
+quest63
+questeq8799
+raarr8667
+rarr8658
+ratail10524
+rbarr10511
+rhar10596
+race8765
+racute341
+radic8730
+raemptyv10675
+rang10217
+rangd10642
+range10661
+rangle10217
+raquo187
+rarr8594
+rarrap10613
+rarrb8677
+rarrbfs10528
+rarrc10547
+rarrfs10526
+rarrhk8618
+rarrlp8620
+rarrpl10565
+rarrsim10612
+rarrtl8611
+rarrw8605
+ratail10522
+ratio8758
+rationals8474
+rbarr10509
+rbbrk10099
+rbrace125
+rbrack93
+rbrke10636
+rbrksld10638
+rbrkslu10640
+rcaron345
+rcedil343
+rceil8969
+rcub125
+rcy1088
+rdca10551
+rdldhar10601
+rdquo8221
+rdquor8221
+rdsh8627
+real8476
+realine8475
+realpart8476
+reals8477
+rect9645
+rfisht10621
+rfloor8971
+rfr120111
+rhard8641
+rharu8640
+rharul10604
+rho961
+rhov1009
+rightarrowtail8611
+rightharpoondown8641
+rightharpoonup8640
+rightleftarrows8644
+rightleftharpoons8652
+rightrightarrows8649
+rightsquigarrow8605
+rightthreetimes8908
+ring730
+risingdotseq8787
+rlarr8644
+rlhar8652
+rlm8207
+rmoust9137
+rmoustache9137
+rnmid10990
+roang10221
+roarr8702
+robrk10215
+ropar10630
+ropf120163
+roplus10798
+rotimes10805
+rpar41
+rpargt10644
+rppolint10770
+rrarr8649
+rsaquo8250
+rscr120007
+rsqb93
+rsquo8217
+rsquor8217
+rthree8908
+rtimes8906
+rtri9657
+rtrie8885
+rtrif9656
+rtriltri10702
+ruluhar10600
+rx8478
+sacute347
+sbquo8218
+sc8827
+sce10932
+scap10936
+scaron353
+sccue8829
+sce10928
+scedil351
+scirc349
+scne10934
+scnap10938
+scnsim8937
+scpolint10771
+scsim8831
+scy1089
+sdot8901
+sdotb8865
+sdote10854
+searr8664
+searhk10533
+searr8600
+searrow8600
+sect167
+semi59
+seswar10537
+setminus8726
+setmn8726
+sext10038
+sfr120112
+sfrown8994
+sharp9839
+shchcy1097
+shcy1096
+shortmid8739
+shortparallel8741
+shy173
+sigma963
+sigmaf962
+sigmav962
+sim8764
+simdot10858
+sime8771
+simeq8771
+simg10910
+simge10912
+siml10909
+simle10911
+simne8774
+simplus10788
+simrarr10610
+slarr8592
+smallsetminus8726
+smashp10803
+smeparsl10724
+smid8739
+smile8995
+smt10922
+smte10924
+smtes10924
+softcy1100
+sol47
+solb10692
+solbar9023
+sopf120164
+spades9824
+spadesuit9824
+spar8741
+sqcap8851
+sqcaps8851
+sqcup8852
+sqcups8852
+sqsub8847
+sqsube8849
+sqsubset8847
+sqsubseteq8849
+sqsup8848
+sqsupe8850
+sqsupset8848
+sqsupseteq8850
+squ9633
+squarf9642
+squf9642
+srarr8594
+sscr120008
+ssetmn8726
+ssmile8995
+sstarf8902
+star9734
+starf9733
+straightepsilon1013
+straightphi981
+strns175
+sub8834
+sube10949
+subdot10941
+sube8838
+subedot10947
+submult10945
+subne10955
+subne8842
+subplus10943
+subrarr10617
+subset8834
+subseteq8838
+subseteqq10949
+subsetneq8842
+subsetneqq10955
+subsim10951
+subsub10965
+subsup10963
+succ8827
+succapprox10936
+succcurlyeq8829
+succeq10928
+succnapprox10938
+succneqq10934
+succnsim8937
+succsim8831
+sung9834
+sup1185
+sup2178
+sup3179
+sup8835
+supe10950
+supdot10942
+supdsub10968
+supe8839
+supedot10948
+suphsol10185
+suphsub10967
+suplarr10619
+supmult10946
+supne10956
+supne8843
+supplus10944
+supset8835
+supseteq8839
+supseteqq10950
+supsetneq8843
+supsetneqq10956
+supsim10952
+supsub10964
+supsup10966
+swarr8665
+swarhk10534
+swarr8601
+swarrow8601
+swnwar10538
+szlig223
+target8982
+tau964
+tbrk9140
+tcaron357
+tcedil355
+tcy1090
+tdot8411
+telrec8981
+tfr120113
+there48756
+theta952
+thetasym977
+thetav977
+thickapprox8776
+thicksim8764
+thinsp8201
+thkap8776
+thksim8764
+thorn254
+tilde732
+times215
+timesb8864
+timesbar10801
+timesd10800
+tint8749
+toea10536
+top8868
+topbot9014
+topcir10993
+topf120165
+topfork10970
+tosa10537
+tprime8244
+triangle9653
+triangledown9663
+triangleleft9667
+trianglelefteq8884
+triangleq8796
+triangleright9657
+trianglerighteq8885
+tridot9708
+trie8796
+triminus10810
+triplus10809
+trisb10701
+tritime10811
+trpezium9186
+tscr120009
+tscy1094
+tshcy1115
+tstrok359
+twixt8812
+twoheadleftarrow8606
+twoheadrightarrow8608
+uarr8657
+uhar10595
+uacute250
+uarr8593
+ubrcy1118
+ubreve365
+ucirc251
+ucy1091
+udarr8645
+udblac369
+udhar10606
+ufisht10622
+ufr120114
+ugrave249
+uharl8639
+uharr8638
+uhblk9600
+ulcorn8988
+ulcorner8988
+ulcrop8975
+ultri9720
+umacr363
+uml168
+uogon371
+uopf120166
+upharpoonleft8639
+upharpoonright8638
+uplus8846
+upsi965
+upsih978
+upsilon965
+upuparrows8648
+urcorn8989
+urcorner8989
+urcrop8974
+uring367
+urtri9721
+uscr120010
+utdot8944
+utilde361
+utri9653
+utrif9652
+uuarr8648
+uuml252
+uwangle10663
+varr8661
+vbar10984
+vbarv10985
+vdash8872
+vangrt10652
+varepsilon1013
+varkappa1008
+varnothing8709
+varphi981
+varpi982
+varpropto8733
+varr8597
+varrho1009
+varsigma962
+varsubsetneq8842
+varsubsetneqq10955
+varsupsetneq8843
+varsupsetneqq10956
+vartheta977
+vartriangleleft8882
+vartriangleright8883
+vcy1074
+vdash8866
+vee8744
+veebar8891
+veeeq8794
+vellip8942
+verbar124
+vert124
+vfr120115
+vltri8882
+vnsub8834
+vnsup8835
+vopf120167
+vprop8733
+vrtri8883
+vscr120011
+vsubne10955
+vsubne8842
+vsupne10956
+vsupne8843
+vzigzag10650
+wcirc373
+wedbar10847
+wedge8743
+wedgeq8793
+weierp8472
+wfr120116
+wopf120168
+wp8472
+wr8768
+wreath8768
+wscr120012
+xcap8898
+xcirc9711
+xcup8899
+xdtri9661
+xfr120117
+xharr10234
+xharr10231
+xi958
+xlarr10232
+xlarr10229
+xmap10236
+xnis8955
+xodot10752
+xopf120169
+xoplus10753
+xotime10754
+xrarr10233
+xrarr10230
+xscr120013
+xsqcup10758
+xuplus10756
+xutri9651
+xvee8897
+xwedge8896
+yacute253
+yacy1103
+ycirc375
+ycy1099
+yen165
+yfr120118
+yicy1111
+yopf120170
+yscr120014
+yucy1102
+yuml255
+zacute378
+zcaron382
+zcy1079
+zdot380
+zeetrf8488
+zeta950
+zfr120119
+zhcy1078
+zigrarr8669
+zopf120171
+zscr120015
+zwj8205
+zwnj820`
